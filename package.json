@@ -1,0 +1,20 @@
+{
+  "name": "node-expers-first-test",
+  "version": "1.0.0",
+  "description": "primeros pasos con node-express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Jose Luis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

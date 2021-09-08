@@ -1,3 +1,7 @@
 morgar te da informacion haerca de tus peticiones para mas
 info checa la doc -> https://www.npmjs.com/package/morgan
 
+next cumple con 2 funciones 
+1.- "sin argumentos" -> Continua con el siguente middelware.
+2.- "Con argumentos" -> se dirige al middelware de manejo de errores.
+
